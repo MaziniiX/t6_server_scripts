@@ -1,3 +1,6 @@
+
+There are some scripts that allow you to do the Richtofen ee in solo on all maps
+
 Here are the different commands of the scripts that can be used in game:
 
 ##################|mAFK|######################
