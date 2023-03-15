@@ -9,7 +9,7 @@ Here are the different commands of the scripts that can be used in game:
 
 /afk off (Make you active)
 
-##################|bank-script|###############
+##################|bank-script|##################
 
 /pay or /p <player> <amount> (The writing of the nickname is not case sensitive)
 	
@@ -17,4 +17,8 @@ Here are the different commands of the scripts that can be used in game:
 	
 /withdraw or /w <amount> (Transfer the desired amount of money to your current balance from the bank)
 	
-/bakance or /b (Shows how much money you have in the bank)
+/balance or /b (Shows how much money you have in the bank)
+
+##################|controls|##################
+	
+Hold the MELEE key to drop your weapon
